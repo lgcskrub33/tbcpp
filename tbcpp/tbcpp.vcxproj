@@ -151,6 +151,9 @@
     <ClCompile Include="bool.cpp" />
     <ClCompile Include="tbcpp.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myConstant.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
