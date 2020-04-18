@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="basic.cpp" />
     <ClCompile Include="bool.cpp" />
     <ClCompile Include="tbcpp.cpp" />
   </ItemGroup>

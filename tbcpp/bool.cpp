@@ -20,8 +20,8 @@ int main()
 	//cout << (int)std::numeric_limits<unsigned char>::max() << endl;
 	//cout << (int)std::numeric_limits<unsigned char>::lowest() << endl;
 
-	cout << int('\n') << endl;
-	cout << "this is first \navenger!!" << std::flush;
+	
+	c
 
 
 
